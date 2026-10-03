@@ -1,3 +1,9 @@
  node_modules
    .env
    twarit.db*
+   git init
+   git add .
+   git commit -m "Twarit first deploy"
+   git branch -M main
+   git remote add origin https://github.com/YOUR-USERNAME/twarit.git
+   git push -u origin main
